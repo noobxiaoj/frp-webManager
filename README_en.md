@@ -1,4 +1,4 @@
-### 一个FRP的多用户穿透管理平台
+### A Multi-User Penetration Management Platform for FRP
 
 [简体中文](README.md)
 |
