@@ -8,9 +8,21 @@
         "host": "localhost",
         "port": 3306,
         "username": "root",
+        "password": "admin",
         "dbname": "frp-DBManager"
     },
     "admincode": {
         "invite_code": "admin"
+    },
+    "protocols":{
+        "tcp": true,
+        "udp": true,
+        "http": false,
+        "https": false
+    },
+    "protexpired":{
+        "year": 100,
+        "month": 0,
+        "day": 0
     }
 }
