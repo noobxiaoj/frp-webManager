@@ -1,4 +1,4 @@
-### A Multi-User Penetration Management Platform for FRP
+### A Multi-User Penetration Management Platform for FRP(not yet completed)
 
 [简体中文](README.md)
 |
